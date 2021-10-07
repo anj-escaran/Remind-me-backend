@@ -1,0 +1,7 @@
+C:\Users\angel\OneDrive\Desktop\RemindMe-SourceCode\RemindMe-backend\RemindMe\obj\Debug\netcoreapp3.1\RemindMe.csproj.AssemblyReference.cache
+C:\Users\angel\OneDrive\Desktop\RemindMe-SourceCode\RemindMe-backend\RemindMe\obj\Debug\netcoreapp3.1\RemindMe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\OneDrive\Desktop\RemindMe-SourceCode\RemindMe-backend\RemindMe\obj\Debug\netcoreapp3.1\RemindMe.AssemblyInfoInputs.cache
+C:\Users\angel\OneDrive\Desktop\RemindMe-SourceCode\RemindMe-backend\RemindMe\obj\Debug\netcoreapp3.1\RemindMe.AssemblyInfo.cs
+C:\Users\angel\OneDrive\Desktop\RemindMe-SourceCode\RemindMe-backend\RemindMe\obj\Debug\netcoreapp3.1\RemindMe.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\RemindMe-SourceCode\RemindMe-backend\RemindMe\obj\Debug\netcoreapp3.1\RemindMe.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\angel\OneDrive\Desktop\RemindMe-SourceCode\RemindMe-backend\RemindMe\obj\Debug\netcoreapp3.1\RemindMe.MvcApplicationPartsAssemblyInfo.cache
